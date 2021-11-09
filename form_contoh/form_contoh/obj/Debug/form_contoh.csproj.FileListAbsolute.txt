@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2015\Projects\form_contoh\form_contoh\bin\Debug\form_contoh.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\form_contoh\form_contoh\bin\Debug\form_contoh.exe
+c:\users\dell\documents\visual studio 2015\Projects\form_contoh\form_contoh\bin\Debug\form_contoh.pdb
+c:\users\dell\documents\visual studio 2015\Projects\form_contoh\form_contoh\obj\Debug\form_contoh.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\form_contoh\form_contoh\obj\Debug\form_contoh.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\form_contoh\form_contoh\obj\Debug\form_contoh.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\form_contoh\form_contoh\obj\Debug\form_contoh.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\form_contoh\form_contoh\obj\Debug\form_contoh.exe
+c:\users\dell\documents\visual studio 2015\Projects\form_contoh\form_contoh\obj\Debug\form_contoh.pdb

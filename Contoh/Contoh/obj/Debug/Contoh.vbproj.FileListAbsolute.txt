@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\bin\Debug\Contoh.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\bin\Debug\Contoh.exe
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\bin\Debug\Contoh.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\bin\Debug\Contoh.xml
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\obj\Debug\Contoh.vbprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\obj\Debug\Contoh.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\obj\Debug\Contoh.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\obj\Debug\Contoh.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\obj\Debug\Contoh.exe
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\obj\Debug\Contoh.xml
+c:\users\dell\documents\visual studio 2015\Projects\Contoh\Contoh\obj\Debug\Contoh.pdb
